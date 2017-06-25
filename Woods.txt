@@ -1,0 +1,12 @@
+You stumble through the dark into the trees nearby. After walking a few hundred feet, you hear something rustling in the brush close by. Startled, you begin to run.
+
+Unfortunately, you trip on a branch and hit your head on a rock. Whatever made the noise has fled, but you feel hot blood running down your face and the silence begins to envelope you.
+
+"Must have been a squirrel," you think, feeling one last surge of shamed sadness, before slipping away.
+
+The end.
+
+Play Again?
+Yes: Enter 1
+No: Enter 9
+|Welcome.txt|Woods.txt|Woods.txt|Woods.txt|Woods.txt|Woods.txt|

@@ -1,0 +1,8 @@
+You glance up at the stars and contemplate the crushing loneliness we find ourselves in as humans. You fall asleep dreaming about little green men.
+
+The end.
+
+Play Again?
+Yes: Enter 1
+No: Enter 9
+|Welcome.txt|Stay.txt|Stay.txt|Stay.txt|Stay.txt|Stay.txt|

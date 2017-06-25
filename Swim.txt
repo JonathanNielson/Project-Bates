@@ -1,0 +1,12 @@
+You strip down to your underoos and jump into the freezing water. The cold sends your body into shock and your immediate terrified struggling slows. 
+You sink to the bottom, only semi-concious. 
+Just before slipping into the black waiting for you, you see the faint outline of a cat.
+
+You almost laugh.
+
+The end.
+
+Play again?
+Yes: Enter 1
+No: Enter 9
+|Welcome.txt|Swim.txt|Swim.txt|Swim.txt|Swim.txt|Swim.txt|

@@ -1,0 +1,8 @@
+You are at the edge of a lake.
+
+Do you:
+
+1) Sit and stay awhile.
+2) Hop in and go for a swim.
+3) Walk towards the woods behind you.
+|Stay.txt|Swim.txt|Woods.txt|Welcome.txt|Welcome.txt|Welcome.txt|
